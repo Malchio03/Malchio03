@@ -51,5 +51,5 @@ __Check out my GitHub repository:__
 <h2>📫 How to reach me:</h2>
 
 
-<a href="https://www.linkedin.com/in/riccardo-malchiodi-094b03257">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a
+<a href="https://www.linkedin.com/in/riccardo-malchiodi-094b03257">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
