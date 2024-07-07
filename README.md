@@ -1,7 +1,7 @@
 <h2>Hey! 👋</h2>
 
 [![](https://visitcount.itsvg.in/api?id=Malchio03&icon=0&color=0)](https://visitcount.itsvg.in)
- [![GitHub followers](https://img.shields.io/github/followers/Malchio03.svg?style=social&label=Follow)](https://github.com/Malchio03?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Malchio03.svg?style=social&label=Follow)](https://github.com/Malchio03?tab=followers)
 
 I'm Riccardo Malchiodi! 
 - <i>Currently:</i> CS Student at University of Genoa. 
