@@ -29,7 +29,7 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
-<h2>👀 Stats</h2>
+<!-- <h2>👀 Stats</h2>
 
 <div>
 <!--   <p align="center">
@@ -37,11 +37,12 @@ __Check out my GitHub repository:__
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
   </p> -->
   
-  <p align="center">
+ <!-- <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malchio03" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
+-->
 
 # 💫 About Me:
 🔭 I’m currently studying computer science at the University of Genoa.<br><br>👯 I’m looking to collaborate on Web development projects, especially those involving Python and front-end technologies.<br><br>🤝 I’m looking for help with: Advancing my knowledge in web development, specifically in areas like CSS frameworks and backend frameworks.<br><br>🌱 I’m currently learning: Python, web development, and exploring various frameworks and libraries to enhance my coding abilities.<br><br>💬 Ask me about: My favorite video games, especially the Life Is Strange saga! I'm also happy to discuss Python programming and web development topics.<br><br>⚡ Fun fact: During my free time, I absolutely love playing games and learning new things 🎮🏆<br>
