@@ -9,7 +9,7 @@ I'm Riccardo Malchiodi!
 
 <h2>💻 I'm Currently learning </h2>
 
-*Univeristy of Genoa*
+**Univeristy of Genoa**
 
 
 - LPO
