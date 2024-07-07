@@ -1,10 +1,6 @@
-![Lakshmanan Meiyappan Banner Image](./banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
-
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Malchio03.Malchio03)](https://github.com/Malchio03) [![GitHub followers](https://img.shields.io/github/followers/Malchio03.svg?style=social&label=Follow)](https://github.com/Malchio03?tab=followers)
 
 I'm Riccardo Malchiodi! 
 - <i>Currently:</i> CS Student at University of Genoa. 
