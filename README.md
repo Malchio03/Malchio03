@@ -1,6 +1,7 @@
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Malchio03.Malchio03)](https://github.com/Malchio03) [![GitHub followers](https://img.shields.io/github/followers/Malchio03.svg?style=social&label=Follow)](https://github.com/Malchio03?tab=followers)
+[![](https://visitcount.itsvg.in/api?id=Malchio03&icon=0&color=0)](https://visitcount.itsvg.in)
+ [![GitHub followers](https://img.shields.io/github/followers/Malchio03.svg?style=social&label=Follow)](https://github.com/Malchio03?tab=followers)
 
 I'm Riccardo Malchiodi! 
 - <i>Currently:</i> CS Student at University of Genoa. 
@@ -48,6 +49,6 @@ __Check out my GitHub repository:__
 🔭 I’m currently studying computer science at the University of Genoa.<br><br>👯 I’m looking to collaborate on Web development projects, especially those involving Python and front-end technologies.<br><br>🤝 I’m looking for help with: Advancing my knowledge in web development, specifically in areas like CSS frameworks and backend frameworks.<br><br>🌱 I’m currently learning: Python, web development, and exploring various frameworks and libraries to enhance my coding abilities.<br><br>💬 Ask me about: My favorite video games, especially the Life Is Strange saga! I'm also happy to discuss Python programming and web development topics.<br><br>⚡ Fun fact: During my free time, I absolutely love playing games and learning new things 🎮🏆<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Malchio03&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
