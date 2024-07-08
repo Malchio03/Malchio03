@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+I+am+Riccardo+Malchiodi;Welcome+to+my+profile!;I+like+learning+new+things;especially+programming+" alt="Typing SVG" /></a>
 
 
-I'm Riccardo Malchiodi! 
+<h2>Current Position</h2>
 - <i>Currently:</i> CS Student at University of Genoa. 
 
 <h2>💻 I'm Currently learning </h2>
