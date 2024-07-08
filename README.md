@@ -1,14 +1,11 @@
-
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+,+I+am+Riccardo+Malchiodi;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
-
-
-
-
 <h2>Hey! 👋</h2>
 
 [![](https://visitcount.itsvg.in/api?id=Malchio03&icon=0&color=0)](https://visitcount.itsvg.in)
 [![GitHub followers](https://img.shields.io/github/followers/Malchio03.svg?style=social&label=Follow)](https://github.com/Malchio03?tab=followers)
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+,+I+am+Riccardo+Malchiodi;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
+
 
 I'm Riccardo Malchiodi! 
 - <i>Currently:</i> CS Student at University of Genoa. 
