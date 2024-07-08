@@ -3,8 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=Malchio03&icon=0&color=0)](https://visitcount.itsvg.in)
 [![GitHub followers](https://img.shields.io/github/followers/Malchio03.svg?style=social&label=Follow)](https://github.com/Malchio03?tab=followers)
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+,+I+am+Riccardo+Malchiodi;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+I+am+Riccardo+Malchiodi;Welcome+to+my+profile!;I+like+learning+new+things;especially+programming+" alt="Typing SVG" /></a>
 
 
 I'm Riccardo Malchiodi! 
