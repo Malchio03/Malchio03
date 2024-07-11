@@ -12,14 +12,17 @@
 <h2>💻 I'm Currently learning </h2>
 
 **Univeristy of Genoa**
-
-
 - LPO
 - Calculus 1
 - databases
 - algorithms and data structures
 
-
+**2D and 3D games**
+- Linear Algebra
+- Analytic Geometry
+- Trigonometry
+- Probability and Statistics
+- Algorithm Design and Analysis
 
 __Check out my GitHub repository:__
 
