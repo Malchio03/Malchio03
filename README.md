@@ -14,8 +14,8 @@
 **Univeristy of Genoa**
 - LPO
 - Calculus 1
-- databases
-- algorithms and data structures
+- Databases
+- Algorithms and data structures
 
 **2D and 3D games**
 - Linear Algebra
