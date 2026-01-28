@@ -38,7 +38,7 @@ __Check out my GitHub repository:__
     </a>
   </p>
    <p>
-    <a href="https://github.com/Malchio03/Pomodoro-Timer">
+    <a href="https://github.com/Malchio03/IndustryDAG">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Malchio03&repo=Pomodoro-Timer" alt="GitHub Stats" />
     </a>
   </p>
