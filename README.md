@@ -24,26 +24,6 @@
 - Probability and Statistics
 - Algorithm Design and Analysis
 
-__Check out my GitHub repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/Malchio03/UniGe">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Malchio03&repo=UniGe" alt="GitHub Stats" />
-    </a>
-  </p>
-    <p>
-    <a href="https://github.com/Malchio03/Simple2DPlayerMovement">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Malchio03&repo=Simple2DPlayerMovement" alt="GitHub Stats" />
-    </a>
-  </p>
-   <p>
-    <a href="https://github.com/Malchio03/IndustryDAG">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Malchio03&repo=IndustryDAG" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
 <!-- <h2>👀 Stats</h2>
 
 <div>
