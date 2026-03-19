@@ -12,10 +12,10 @@
 <h2>💻 I'm Currently learning </h2>
 
 **Univeristy of Genoa**
-- LPO
-- Calculus 1
+- Computer Graphics
+- RO
 - Databases
-- Algorithms and data structures
+- Concurrent programming
 
 **2D and 3D games**
 - Linear Algebra
