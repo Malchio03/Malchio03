@@ -7,7 +7,7 @@
 
 
 <h2>Current Position</h2>
-- <i>Currently:</i> CS Student at University of Genoa. 
+- <i>Currently:</i> Qa Engineering Intern at Hudl
 
 <h2>💻 I'm Currently learning </h2>
 
